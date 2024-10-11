@@ -9,3 +9,19 @@ h1 {
 footer {
     text-align: center;
 }
+
+.fixed-size-img {
+    height: 300px; /* Set the desired height */
+    object-fit: cover; /* Ensures the image covers the specified height/width while maintaining aspect ratio */
+    width: 100%; /* Ensures the image fills the width of the container */
+}
+
+.center-text {
+    text-align: center;
+}
+
+.bg-orange {
+    background-color: orange;
+    padding: 20px; /* Optional: Adds padding around the content inside the div */
+    color: white; /* Optional: Text color for better contrast */
+}
