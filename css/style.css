@@ -25,3 +25,7 @@ footer {
     padding: 20px; /* Optional: Adds padding around the content inside the div */
     color: white; /* Optional: Text color for better contrast */
 }
+.bg-light-orange {
+    background-color: #FFD580; /* Light orange color */
+    opacity: 0.9; /* Slight transparency to make it faded */
+}
